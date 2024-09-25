@@ -6,7 +6,7 @@
 
 - Tutorial github: https://docs.github.com/en
 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=1000&height=75&lines=I'm+Pham+Nguyen+Vu+Dev;Computer+Engineering+Cyber+Security+Student;Projects;%40R2O4">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=1000&height=75&lines=I'm+Pham+Nguyen+Vu+Developer;%40CyberAgent">
 
 
 
